@@ -1,7 +1,7 @@
 ### Olá! me chamo Gustavo 👋
 
 - ⭐ Hoje trabalho para conseguir meu primeiro emprego como desenvolvedor fullstack!!!
-- 📚 Estudando estratégias para aplicar wireframes em HTML5 e CSS3.
+- 📚 Estudando Python para automatização de tarefas e aperfeiçoamento de competências referente a inteligência artificial.
 - 📚 Estudando novas estratégias de aplicação em HTML5 e Javascript.
 - 📞 Contate-me pelo e-mail: gutpacheco@outlook.com
 
