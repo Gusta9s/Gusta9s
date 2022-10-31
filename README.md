@@ -1,9 +1,12 @@
 ### Olá! me chamo Gustavo 👋
 
-- ⭐ Hoje trabalho para conseguir meu primeiro emprego como desenvolvedor fullstack!!!
-- 📚 Estudando Python para automatização de tarefas e aperfeiçoamento de competências referente a inteligência artificial.
-- 📚 Estudando novas estratégias de aplicação em HTML5 e Javascript.
+- ⭐ Hoje trabalho para conseguir meu primeiro emprego como Analista de Dados!!!
+- 📚 Estudando Python para desenvolver algoritmos que recebem grandes quantidades de dados e fazem a distribuição deste dados para diversos segmentos.
+- 📚 Estudando novas estratégias de aplicação em UI.
+- 📚 Estudando SQL para aplicação de dados em Dashboard (Power BI ou Tabloo).
+- 📚 Estudando inglês para aperfeiçoamento de competências referente a leitura e identificação de documentos e algoritmos.
 - 📞 Contate-me pelo e-mail: gutpacheco@outlook.com
+<br>
 
  <div align="center">
   <a href="https://github.com/Gusta9s">
