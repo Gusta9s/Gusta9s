@@ -20,4 +20,5 @@
   <img align="center" alt="Gusta9s-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gusta9s-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Gusta9s-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t39.30808-6/289952278_2825924440887612_2323048955662209082_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=tIHtta8C_rMAX92_ueD&_nc_ht=scontent.fcgh23-1.fna&oh=00_AT_U8iCU9m0c0zA8KOxx3tlQhkSBYG1o2FDAgZMWNvja7g&oe=62BAB2C8">
+  <img align="right" alt="Gusta9s-pic" height="150" style="border-radius:50px;" src="https://devicons.railway.app/i/java.svg">
 </div>
