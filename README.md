@@ -1,11 +1,13 @@
 ### Olá! me chamo Gustavo 👋
 
-- ⭐ Hoje trabalho para conseguir meu primeiro emprego como Analista de Dados!!!
-- 📚 Estudando Python para desenvolver algoritmos que recebem grandes quantidades de dados e fazem a distribuição deste dados para diversos segmentos.
-- 📚 Estudando novas estratégias de aplicação em UI.
-- 📚 Estudando SQL para aplicação de dados em Dashboard (Power BI ou Tabloo).
-- 📚 Estudando inglês para aperfeiçoamento de competências referente a leitura e identificação de documentos e algoritmos.
-- 📞 Contate-me pelo e-mail: gutpacheco@outlook.com
+Sou estudante de Ciência da Computação com forte interesse em Análise de Dados e Inteligência Artificial. 
+
+Possuo conhecimentos intermediários em Python, Java e PostgreSQL. 
+
+Busco um estágio em Análise de Dados para adquirir experiência prática e aplicar meus conhecimentos teóricos. 
+
+Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe, além de ser apaixonado por resolver problemas e encontrar insights valiosos a partir de dados.
+
 <br>
 
  <div align="center">
