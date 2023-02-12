@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação com forte interesse em Análise de Dados e Inteligência Artificial. 
 
-Possuo conhecimentos intermediários em Python, Java e PostgreSQL. 
+Possuo conhecimentos intermediários em Python, Java e MySQL. 
 
 Busco um estágio em Análise de Dados para adquirir experiência prática e aplicar meus conhecimentos teóricos. 
 
@@ -22,6 +22,6 @@ Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe, 
   <img align="center" alt="Gusta9s-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gusta9s-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gusta9s-Java" height="30" width="40" src="https://devicons.railway.app/i/java.svg">
-  <img align="center" alt="Gusta9s-PostgreSQL" height="30" width="40" src="https://devicons.railway.app/i/postgresql.svg">
+  <img align="center" alt="Gusta9s-MySQL" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
   <img align="right" alt="Gusta9s-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t39.30808-6/289952278_2825924440887612_2323048955662209082_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=tIHtta8C_rMAX92_ueD&_nc_ht=scontent.fcgh23-1.fna&oh=00_AT_U8iCU9m0c0zA8KOxx3tlQhkSBYG1o2FDAgZMWNvja7g&oe=62BAB2C8">
 </div>
