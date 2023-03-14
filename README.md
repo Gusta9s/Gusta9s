@@ -1,12 +1,10 @@
 ### Olá! me chamo Gustavo 👋
 
-Sou estudante de Ciência da Computação com forte interesse em Análise de Dados e Inteligência Artificial. 
+Como estagiário em desenvolvimento back-end, tenho um forte interesse em aprender e aprimorar minhas habilidades em programação e desenvolvimento de software. Tenho conhecimento em linguagens de programação como Java e Python, bem como em bancos de dados SQL com MySQL.
 
-Possuo conhecimentos intermediários em Python, Java e MySQL. 
+Estou familiarizado com frameworks e ferramentas comuns de back-end, como Spring e Swing, tenho habilidades básicas em controle de versão com o Git. Também estou disposto a aprender novas tecnologias e conceitos relacionados a desenvolvimento back-end.
 
-Busco um estágio em Análise de Dados para adquirir experiência prática e aplicar meus conhecimentos teóricos. 
-
-Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe, além de ser apaixonado por resolver problemas e encontrar insights valiosos a partir de dados.
+Sou um comunicador eficaz e posso trabalhar bem em equipe, tendo habilidades de resolução de problemas e atenção aos detalhes. Estou comprometido em aprender continuamente e em contribuir para projetos desafiadores e de alta qualidade que atendam às necessidades dos clientes e usuários.
 
 <br>
 
