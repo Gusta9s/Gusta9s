@@ -21,5 +21,4 @@ Sou um comunicador eficaz e posso trabalhar bem em equipe, tendo habilidades de 
   <img align="center" alt="Gusta9s-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gusta9s-Java" height="30" width="40" src="https://devicons.railway.app/i/java.svg">
   <img align="center" alt="Gusta9s-MySQL" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
-  <img align="right" alt="Gusta9s-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t39.30808-6/289952278_2825924440887612_2323048955662209082_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEKdKnfbWiD5hyQcw7V-G3YBpW2OAYgvk4GlbY4BiC-Tt2COjdUAZGX8KLNu0-q-SfynHTUKgGLA1T9dpkcEuRI&_nc_ohc=NNi_mqseh7kAX9hEwhi&_nc_ht=scontent.fcgh23-1.fna&oh=00_AfCZSh_4PuUTfZI4DTX2vpGBOd7aDYnxIBJG7Em_Wrlj_g&oe=63ED3788">
 </div>
