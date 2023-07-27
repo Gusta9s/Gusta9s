@@ -1,10 +1,16 @@
 ### Olá! me chamo Gustavo 👋
 
-Como estagiário em desenvolvimento back-end, tenho um forte interesse em aprender e aprimorar minhas habilidades em programação e desenvolvimento de software. Tenho conhecimento em linguagens de programação como Java e Python, bem como em bancos de dados SQL com MySQL.
+Sou um desenvolvedor full-stack especializado em Python, com uma forte ênfase em modelagem e administração de banco de dados relacionais utilizando SQL. Minhas habilidades em normalização e álgebra relacional garantem que as bases de dados que desenvolvo sejam eficientes, escaláveis e de alta qualidade.
 
-Estou familiarizado com frameworks e ferramentas comuns de back-end, como Spring e Swing, tenho habilidades básicas em controle de versão com o Git. Também estou disposto a aprender novas tecnologias e conceitos relacionados a desenvolvimento back-end.
+No campo do UI/UX Design, sou habilidoso com a ferramenta Figma e aplico as heurísticas de Nielsen para garantir interfaces amigáveis e intuitivas para os usuários. Busco sempre aprimorar a experiência do usuário em minhas aplicações, tornando-as mais atrativas e funcionais.
 
-Sou um comunicador eficaz e posso trabalhar bem em equipe, tendo habilidades de resolução de problemas e atenção aos detalhes. Estou comprometido em aprender continuamente e em contribuir para projetos desafiadores e de alta qualidade que atendam às necessidades dos clientes e usuários.
+Quando se trata de frameworks web, tenho experiência com Flask e Django, o que me permite criar aplicações web robustas e escaláveis. Utilizo o Flask para projetos menores e mais ágeis, enquanto o Django é minha escolha para projetos maiores e mais complexos, pois oferece uma ampla gama de funcionalidades.
+
+Além disso, possuo conhecimento em Spark, uma ferramenta que utilizo para processamento de dados em larga escala, garantindo que minhas aplicações sejam capazes de lidar com grandes volumes de informações.
+
+Minha base sólida em URL e URI, bem como os protocolos de comunicação, requisições e respostas com o protocolo HTTP, me tornam capaz de desenvolver aplicações web bem estruturadas e com uma comunicação eficiente entre cliente e servidor.
+
+Como desenvolvedor full-stack Python, estou comprometido em criar soluções inovadoras, escaláveis e eficientes, utilizando todas as ferramentas mencionadas acima para fornecer o melhor resultado possível aos meus clientes e usuários finais. Sou apaixonado por resolver problemas complexos e estou sempre em busca de novos desafios para aprimorar minhas habilidades e conhecimentos.
 
 <br>
 
@@ -21,4 +27,5 @@ Sou um comunicador eficaz e posso trabalhar bem em equipe, tendo habilidades de 
   <img align="center" alt="Gusta9s-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gusta9s-Java" height="30" width="40" src="https://devicons.railway.app/i/java.svg">
   <img align="center" alt="Gusta9s-MySQL" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
+  <img align="center" alt="Gusta9s-SqLite" height="30" width="40" src="https://devicons.dev.br/icons?icon=SQLite&theme=dark">
 </div>
