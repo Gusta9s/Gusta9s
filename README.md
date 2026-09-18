@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um engenheiro de software apaixonado por transformar dados em soluções inteligentes. Com 23 anos e baseado em São Paulo, combino **engenharia backend robusta** com **inovação em Inteligência Artificial**. 
+Sou um engenheiro de software apaixonado por transformar dados em soluções inteligentes. Com 23 anos e residente em São Paulo, combino **engenharia backend robusta** com **inovação em Inteligência Artificial**. 
 
 Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Services** e estou cursando uma **Pós-Graduação em Machine Learning Engineer pela FIAP**. Meu foco é desenvolver soluções preditivas que impactem o negócio, mantendo a qualidade e escalabilidade do código.
 
@@ -26,7 +26,7 @@ Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Servi
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
@@ -65,10 +65,10 @@ Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Servi
 <div align="center">
   
 ### 📈 Visão Geral de Atividades
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavo-pacheco&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gusta9s&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 ### 🔥 Sequência de Contribuições
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavo-pacheco&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gusta9s&theme=github-dark&hide_border=true)
 
 </div>
 
@@ -79,11 +79,7 @@ Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Servi
 <div align="center">
 
 ### Distribuição de Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-pacheco&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-### 📌 Repositórios Destacados
-![](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-pacheco&repo=sistema-priorizacao-limpeza-urbana&theme=github_dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-pacheco&repo=reconhecimento-facial&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta9s&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
@@ -155,7 +151,5 @@ Estou sempre aberto para:
 ### 💡 "O código é o meio, mas o impacto no negócio é o fim."
 
 **Vamos criar algo extraordinário juntos! 🚀**
-
-![Profile Views](https://komarev.com/ghpvc/?username=gustavo-pacheco&color=00D9FF&style=flat-square)
 
 </div>
