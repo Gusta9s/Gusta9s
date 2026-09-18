@@ -1,25 +1,161 @@
-### Olá! me chamo Gustavo 👋
+# Olá! 👋 Sou Gustavo Pacheco
 
-Como estagiário em desenvolvimento back-end, tenho um forte interesse em aprender e aprimorar minhas habilidades em programação e desenvolvimento de software. Tenho conhecimento em linguagens de programação como Java e Python, bem como em bancos de dados SQL com MySQL.
-
-Estou familiarizado com frameworks e ferramentas comuns de back-end, como Spring e Swing, tenho habilidades básicas em controle de versão com o Git. Também estou disposto a aprender novas tecnologias e conceitos relacionados a desenvolvimento back-end.
-
-Sou um comunicador eficaz e posso trabalhar bem em equipe, tendo habilidades de resolução de problemas e atenção aos detalhes. Estou comprometido em aprender continuamente e em contribuir para projetos desafiadores e de alta qualidade que atendam às necessidades dos clientes e usuários.
-
-<br>
-
- <div align="center">
-  <a href="https://github.com/Gusta9s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gusta9s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta9s&layout=compact&langs_count=7&theme=merko"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Backend+Developer;AI+Enthusiast;Data+Science+Lover" alt="Typing SVG" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gusta9s-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gusta9s-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gusta9s-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gusta9s-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gusta9s-Java" height="30" width="40" src="https://devicons.railway.app/i/java.svg">
-  <img align="center" alt="Gusta9s-MySQL" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
-  <img align="center" alt="Gusta9s-SqLite" height="30" width="40" src="https://devicons.dev.br/icons?icon=SQLite&theme=dark">
+---
+
+## 🚀 Sobre Mim
+
+Sou um engenheiro de software apaixonado por transformar dados em soluções inteligentes. Com 23 anos e baseado em São Paulo, combino **engenharia backend robusta** com **inovação em Inteligência Artificial**. 
+
+Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Services** e estou cursando uma **Pós-Graduação em Machine Learning Engineer pela FIAP**. Meu foco é desenvolver soluções preditivas que impactem o negócio, mantendo a qualidade e escalabilidade do código.
+
+**Reconhecimento:** 🏆 **Santander SuperEstag 2024**
+
+---
+
+## 🛠️ Tech Stack - Foco em ML & IA
+
+### Machine Learning & IA
+<div align="center">
+  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+</div>
+
+**Especialidades ML:**
+- ✨ Regressão Logística & Análise Preditiva
+- 🌳 Árvores de Decisão (Bagging & Boosting)
+- 🧠 Redes Neurais & Deep Learning
+- 👁️ Computer Vision & CNN
+- 🤖 Agentes de IA & LLMs
+
+### Backend & Cloud
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+
+### Dados & DevOps
+- 🔄 Apache Spark & Big Data Processing
+- 📊 Data Engineering & ETL
+- 🐧 Linux CLI & Automation
+- ♻️ CI/CD & GitOps
+- 🧪 Unit & Integration Testing
+
+---
+
+## 📊 Estatísticas & Contribuições
+
+<div align="center">
+  
+### 📈 Visão Geral de Atividades
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavo-pacheco&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+### 🔥 Sequência de Contribuições
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavo-pacheco&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
+## 💻 Qualidade de Código & Linguagens
+
+<div align="center">
+
+### Distribuição de Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-pacheco&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+### 📌 Repositórios Destacados
+![](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-pacheco&repo=sistema-priorizacao-limpeza-urbana&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-pacheco&repo=reconhecimento-facial&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🔗 Rastreabilidade & Integrações
+
+<div align="center">
+
+### 📌 Padrões de Desenvolvimento
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitFlow](https://img.shields.io/badge/GitFlow-Workflow-blue?style=for-the-badge)
+
+**Comprometimento com Excelência:**
+- 🔍 Commits atômicos e descritivos
+- 📝 Squash & Rebase para histórico limpo
+- ✅ Pull Requests com documentação completa
+- 🔄 Integração Contínua & Testes Automatizados
+- 📊 Code Reviews & Qualidade
+
+</div>
+
+---
+
+## 🌟 Diferenciais
+
+### 💼 Experiência em Negócio
+- **Payments & Swift:** Especialista em fluxos de pagamentos internacionais (MT/MX)
+- **Corporate & Banking:** Conhecimento profundo em operações financeiras complexas
+- **Cloud & MultiCloud:** Implementação em Azure com alta disponibilidade
+
+### 🎓 Formação
+- 🎯 **Pós-Graduação:** Machine Learning Engineer (FIAP) - *Em andamento*
+- 🎓 **Graduação:** Ciência da Computação (UNIP)
+- 🏆 **Reconhecimento:** Santander SuperEstag 2024
+
+### 🔬 Projetos em Destaque
+1. **Sistema Inteligente de Priorização da Limpeza Urbana** - CNN + Roteamento Otimizado
+2. **Reconhecimento Facial & Processamento de Imagens** - Computer Vision
+3. **Gestão de Adutores** - IoT & Monitoramento em Tempo Real
+
+---
+
+## 🤝 Vamos Colaborar!
+
+Estou sempre aberto para:
+- 🔬 Projetos em **Machine Learning** e **IA**
+- 🏗️ Contribuições em **Open Source**
+- 💬 Discussões sobre **Engenharia de Software**
+- 🚀 Startups e ideias inovadoras
+
+<div align="center">
+
+### 📞 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-pacheco-machine-learning-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gusta9s)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoapacheco@yahoo.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://gusta9s.github.io/Portfolio/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "O código é o meio, mas o impacto no negócio é o fim."
+
+**Vamos criar algo extraordinário juntos! 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=gustavo-pacheco&color=00D9FF&style=flat-square)
+
 </div>
