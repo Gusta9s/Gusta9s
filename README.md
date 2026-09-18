@@ -63,12 +63,18 @@ Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Servi
 ## 📊 Estatísticas & Contribuições
 
 <div align="center">
-  
-### 📈 Visão Geral de Atividades
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gusta9s&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-### 🔥 Sequência de Contribuições
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gusta9s&theme=github-dark&hide_border=true)
+### 📈 Atividade no GitHub
+
+![Contribuições](https://img.shields.io/badge/Contribuições-113-blue?style=flat-square&logo=github)
+![Commits](https://img.shields.io/badge/Commits-Diários-green?style=flat-square)
+![Pull Requests](https://img.shields.io/badge/PRs-Qualidade%20Alta-success?style=flat-square)
+
+### 🔥 Sequência de Atividades
+
+![Streak](https://img.shields.io/badge/Contribuição%20Atual-1%20dia-brightgreen?style=flat-square)
+![Máximo](https://img.shields.io/badge/Máxima%20Sequência-2%20dias-success?style=flat-square)
+![Período](https://img.shields.io/badge/Período%20Ativo-Desde%20Abril%202024-blue?style=flat-square)
 
 </div>
 
@@ -78,8 +84,13 @@ Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Servi
 
 <div align="center">
 
-### Distribuição de Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta9s&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+### Principais Linguagens
+
+![Python](https://img.shields.io/badge/Python-30%25-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-25%25-ED8B00?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square&logo=javascript)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-15%25-E34C26?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-10%25-CC2927?style=flat-square&logo=mysql)
 
 </div>
 
@@ -95,13 +106,7 @@ Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Servi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitFlow](https://img.shields.io/badge/GitFlow-Workflow-blue?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange?style=for-the-badge)
-
-**Comprometimento com Excelência:**
-- 🔍 Commits atômicos e descritivos
-- 📝 Squash & Rebase para histórico limpo
-- ✅ Pull Requests com documentação completa
-- 🔄 Integração Contínua & Testes Automatizados
-- 📊 Code Reviews & Qualidade
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
