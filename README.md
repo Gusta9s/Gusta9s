@@ -64,33 +64,9 @@ Atualmente trabalho como **Analista de TI (Developer)** na **F1RST Digital Servi
 
 <div align="center">
 
-### 📈 Atividade no GitHub
-
-![Contribuições](https://img.shields.io/badge/Contribuições-113-blue?style=flat-square&logo=github)
-![Commits](https://img.shields.io/badge/Commits-Diários-green?style=flat-square)
-![Pull Requests](https://img.shields.io/badge/PRs-Qualidade%20Alta-success?style=flat-square)
-
 ### 🔥 Sequência de Atividades
 
-![Streak](https://img.shields.io/badge/Contribuição%20Atual-1%20dia-brightgreen?style=flat-square)
-![Máximo](https://img.shields.io/badge/Máxima%20Sequência-2%20dias-success?style=flat-square)
-![Período](https://img.shields.io/badge/Período%20Ativo-Desde%20Abril%202024-blue?style=flat-square)
-
-</div>
-
----
-
-## 💻 Qualidade de Código & Linguagens
-
-<div align="center">
-
-### Principais Linguagens
-
-![Python](https://img.shields.io/badge/Python-30%25-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-25%25-ED8B00?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square&logo=javascript)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-15%25-E34C26?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-10%25-CC2927?style=flat-square&logo=mysql)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gusta9s&theme=github-dark&hide_border=true)
 
 </div>
 
